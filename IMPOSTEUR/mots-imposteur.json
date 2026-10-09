@@ -1,0 +1,72 @@
+[
+  { "category": "Nourriture", "word": "Mangue", "similarWord": "Papaye", "difficulty": "facile" },
+  { "category": "Nourriture", "word": "Riz", "similarWord": "Pâtes", "difficulty": "facile" },
+  { "category": "Nourriture", "word": "Alloco", "similarWord": "Frites", "difficulty": "facile" },
+  { "category": "Nourriture", "word": "Attiéké", "similarWord": "Couscous", "difficulty": "moyen" },
+  { "category": "Nourriture", "word": "Bissap", "similarWord": "Gnamakoudji", "difficulty": "moyen" },
+  { "category": "Nourriture", "word": "Foutou", "similarWord": "Placali", "difficulty": "difficile" },
+
+  { "category": "Technologie", "word": "Téléphone", "similarWord": "Tablette", "difficulty": "facile" },
+  { "category": "Technologie", "word": "Télévision", "similarWord": "Ordinateur", "difficulty": "facile" },
+  { "category": "Technologie", "word": "Casque", "similarWord": "Écouteurs", "difficulty": "facile" },
+  { "category": "Technologie", "word": "WhatsApp", "similarWord": "Telegram", "difficulty": "moyen" },
+  { "category": "Technologie", "word": "Clé USB", "similarWord": "Disque dur", "difficulty": "moyen" },
+  { "category": "Technologie", "word": "Wifi", "similarWord": "Bluetooth", "difficulty": "difficile" },
+
+  { "category": "Sport", "word": "Football", "similarWord": "Rugby", "difficulty": "moyen" },
+  { "category": "Sport", "word": "Boxe", "similarWord": "Karaté", "difficulty": "facile" },
+  { "category": "Sport", "word": "Basketball", "similarWord": "Handball", "difficulty": "moyen" },
+  { "category": "Sport", "word": "Tennis", "similarWord": "Badminton", "difficulty": "moyen" },
+  { "category": "Sport", "word": "Natation", "similarWord": "Plongée", "difficulty": "moyen" },
+  { "category": "Sport", "word": "Marathon", "similarWord": "Sprint", "difficulty": "difficile" },
+
+  { "category": "Animaux", "word": "Chien", "similarWord": "Loup", "difficulty": "facile" },
+  { "category": "Animaux", "word": "Lion", "similarWord": "Tigre", "difficulty": "facile" },
+  { "category": "Animaux", "word": "Poule", "similarWord": "Pintade", "difficulty": "moyen" },
+  { "category": "Animaux", "word": "Éléphant", "similarWord": "Hippopotame", "difficulty": "moyen" },
+  { "category": "Animaux", "word": "Crocodile", "similarWord": "Caïman", "difficulty": "difficile" },
+
+  { "category": "Métiers", "word": "Médecin", "similarWord": "Infirmier", "difficulty": "facile" },
+  { "category": "Métiers", "word": "Chauffeur", "similarWord": "Pilote", "difficulty": "facile" },
+  { "category": "Métiers", "word": "Maçon", "similarWord": "Menuisier", "difficulty": "moyen" },
+  { "category": "Métiers", "word": "Avocat", "similarWord": "Juge", "difficulty": "moyen" },
+  { "category": "Métiers", "word": "Enseignant", "similarWord": "Formateur", "difficulty": "difficile" },
+
+  { "category": "Lieux", "word": "Marché", "similarWord": "Supermarché", "difficulty": "facile" },
+  { "category": "Lieux", "word": "Plage", "similarWord": "Piscine", "difficulty": "facile" },
+  { "category": "Lieux", "word": "Église", "similarWord": "Mosquée", "difficulty": "moyen" },
+  { "category": "Lieux", "word": "Hôpital", "similarWord": "Pharmacie", "difficulty": "moyen" },
+  { "category": "Lieux", "word": "Maquis", "similarWord": "Restaurant", "difficulty": "moyen" },
+  { "category": "Lieux", "word": "Aéroport", "similarWord": "Gare", "difficulty": "moyen" },
+
+  { "category": "Transport", "word": "Moto", "similarWord": "Vélo", "difficulty": "facile" },
+  { "category": "Transport", "word": "Taxi", "similarWord": "Bus", "difficulty": "facile" },
+  { "category": "Transport", "word": "Avion", "similarWord": "Hélicoptère", "difficulty": "facile" },
+  { "category": "Transport", "word": "Bateau", "similarWord": "Pirogue", "difficulty": "moyen" },
+  { "category": "Transport", "word": "Gbaka", "similarWord": "Wôrô-wôrô", "difficulty": "difficile" },
+
+  { "category": "Objets", "word": "Fourchette", "similarWord": "Cuillère", "difficulty": "facile" },
+  { "category": "Objets", "word": "Stylo", "similarWord": "Crayon", "difficulty": "facile" },
+  { "category": "Objets", "word": "Montre", "similarWord": "Horloge", "difficulty": "moyen" },
+  { "category": "Objets", "word": "Valise", "similarWord": "Sac à dos", "difficulty": "moyen" },
+  { "category": "Objets", "word": "Bougie", "similarWord": "Lampe torche", "difficulty": "moyen" },
+  { "category": "Objets", "word": "Miroir", "similarWord": "Vitre", "difficulty": "difficile" },
+
+  { "category": "Nature", "word": "Soleil", "similarWord": "Lune", "difficulty": "facile" },
+  { "category": "Nature", "word": "Pluie", "similarWord": "Orage", "difficulty": "moyen" },
+  { "category": "Nature", "word": "Forêt", "similarWord": "Savane", "difficulty": "moyen" },
+  { "category": "Nature", "word": "Fleuve", "similarWord": "Lagune", "difficulty": "difficile" },
+  { "category": "Nature", "word": "Montagne", "similarWord": "Colline", "difficulty": "difficile" },
+
+  { "category": "Divertissement", "word": "Guitare", "similarWord": "Piano", "difficulty": "facile" },
+  { "category": "Divertissement", "word": "Cinéma", "similarWord": "Théâtre", "difficulty": "moyen" },
+  { "category": "Divertissement", "word": "Mariage", "similarWord": "Anniversaire", "difficulty": "moyen" },
+  { "category": "Divertissement", "word": "Awalé", "similarWord": "Jeu de dames", "difficulty": "difficile" },
+  { "category": "Divertissement", "word": "Coupé-décalé", "similarWord": "Zouglou", "difficulty": "difficile" },
+
+  { "category": "Émotions", "word": "Rêve", "similarWord": "Cauchemar", "difficulty": "moyen" },
+  { "category": "Émotions", "word": "Colère", "similarWord": "Jalousie", "difficulty": "difficile" },
+  { "category": "Émotions", "word": "Peur", "similarWord": "Stress", "difficulty": "difficile" },
+  { "category": "Émotions", "word": "Amour", "similarWord": "Amitié", "difficulty": "difficile" },
+  { "category": "Émotions", "word": "Joie", "similarWord": "Fierté", "difficulty": "difficile" }
+]
